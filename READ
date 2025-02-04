@@ -106,5 +106,5 @@ int main() {
         exit(0);
     }
 }
-```c
-![ScreenShot](h1.jpg)
+```
+![screenShot](h1.jpg)
