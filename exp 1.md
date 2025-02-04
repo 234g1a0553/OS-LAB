@@ -78,7 +78,7 @@ cd ..
 To move back to the parent directory
 rmdir subdir
 Removes an empty sub-directory.
-```c
+```
 
 ![screenshot](h6.jpg)
 
